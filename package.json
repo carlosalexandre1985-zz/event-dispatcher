@@ -1,0 +1,29 @@
+{
+  "name": "event-dispatcher",
+  "version": "1.0.0",
+  "description": "Class to add, remove event listeners and dispatch custom events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalexandre1985/event-dispatcher.git"
+  },
+  "keywords": [
+    "event",
+    "dispatcher",
+    "add",
+    "remove",
+    "dispatch",
+    "listener",
+    "custom",
+    "event"
+  ],
+  "author": "Carlos Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosalexandre1985/event-dispatcher/issues"
+  },
+  "homepage": "https://github.com/carlosalexandre1985/event-dispatcher#readme"
+}
