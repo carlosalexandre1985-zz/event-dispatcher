@@ -6,4 +6,8 @@ export class EventDispatcher {
       this[method] = eventTarget[method].bind(eventTarget);
     }.bind(this));
   }
+
+  teste(param) {
+    return param;
+  }
 }
