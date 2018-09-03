@@ -1,6 +1,6 @@
 # event-dispatcher
 
-EventDispatcher class was created in order to be extended. It enables the **addEventListener**,  ** removeEventListener** and **dispatchEvent** methods in your class.
+EventDispatcher class was created in order to be extended. It enables the **addEventListener**,  **removeEventListener** and **dispatchEvent** methods in your class.
 
 ## Example
 ````javascript
