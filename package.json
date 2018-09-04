@@ -1,5 +1,5 @@
 {
-  "name": "event-dispatcher",
+  "name": "@jslibrary/event-dispatcher",
   "version": "1.0.0",
   "description": "Class to add, remove event listeners and dispatch custom events.",
   "main": "index.js",
@@ -34,5 +34,6 @@
   },
   "jest": {
     "transformIgnorePatterns": []
-  }
+  },
+  "dependencies": {}
 }
